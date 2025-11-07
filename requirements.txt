@@ -1,0 +1,6 @@
+langchain>=0.3.27
+langchain-community>=0.3.31
+langchain-core>=0.3.79
+langchain-ollama>=0.1.0
+ollama>=0.6.0
+slack-bolt>=1.18.0
